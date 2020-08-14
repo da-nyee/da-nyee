@@ -14,7 +14,7 @@
 - Agile Methodology
 
 ### 💻 Tech Stack
-- <b>Proficient</b>: Python, SQL
+- <b>Proficient</b>: Python, SQL, Git
 - <b>Intermediate</b>: Java, JavaScript, Raspberry Pi
 - <b>Beginner</b>: C, C++, R, Keras
 
