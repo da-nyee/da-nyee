@@ -4,6 +4,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da_nyee/)](https://www.instagram.com/da_nyee/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leede0418@likelion.org)](mailto:leede0418@likelion.org)
 
+### 📚 Education
+- Undergraduate Student in Computer Science at Gachon University (2016.03 ~)
+
 ### 🎈 Interest
 - Server/Backend Programming (Java, Spring Framework)
 - Algorithms, Data Structures (Python)
