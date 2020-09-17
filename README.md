@@ -15,11 +15,6 @@
 - AI Programming (Keras)
 - Agile Methodology
 
-### 💻 Tech Stack
-- <b>Proficient</b>: Python, SQL, Git
-- <b>Intermediate</b>: Java, JavaScript, Raspberry Pi
-- <b>Beginner</b>: C, C++, R, Keras
-
 
 <!--
 **da-nyee/da-nyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
