@@ -10,9 +10,8 @@
 ### 🎈 Interest
 - Server/Backend Programming (Java, Spring Framework)
 - Algorithms, Data Structures (Python)
-- Cloud Computing Services (AWS)
-- IoT Programming (Raspberry Pi)
-- AI Programming (Keras)
+- Artificial Intelligence (Keras)
+- Cloud Computing (AWS)
 - Agile Methodology
 
 
