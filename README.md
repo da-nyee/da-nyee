@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leede0418@likelion.org)](mailto:leede0418@likelion.org)
 
 ### 📚 Education
-- Undergraduate Student in Computer Science at Gachon University (2016.03 ~)
+- Undergraduate Student in Computer Science at Gachon University (Mar 2016 ~)
 
 ### 🎈 Interest
 - Server/Backend Programming (Java, Spring Framework)
