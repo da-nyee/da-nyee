@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leede0418@likelion.org)](mailto:leede0418@likelion.org)
 
 ### 📚 Education
+- Woowahan Tech Course 3rd (Feb 2021 –)
 - Undergraduate Student in Computer Science at Gachon University (Mar 2016 –)
 
 ### 🎈 Interest
