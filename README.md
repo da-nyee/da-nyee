@@ -11,9 +11,9 @@
 ### 🎈 Interest
 - Server/Backend Programming (Java, Spring Framework)
 - Algorithms, Data Structures (Python)
-- Artificial Intelligence (Keras)
 - Cloud Computing (AWS)
 - Agile Methodology
+- Clean Code
 
 
 <!--
