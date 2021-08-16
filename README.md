@@ -1,17 +1,16 @@
-## Daeun Lee &nbsp;@da-nyee
+## Lee Daeun &nbsp;@da-nyee
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fda-nyee)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://da-nyee.github.io/)](https://da-nyee.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/da_nyee/)](https://www.instagram.com/da_nyee/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leede0418@likelion.org)](mailto:leede0418@gmail.com)
 
 ### 📚 Education
-- Woowahan Tech Course 3rd (Feb 2021 –)
-- Undergraduate Student in Computer Science at Gachon University (Mar 2016 –)
+- Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 –)</sub>
+- Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 –)</sub>
 
 ### 🎈 Interest
-- Server/Backend Programming (Java, Spring Framework)
-- Algorithms, Data Structures (Python)
-- Cloud Computing (AWS)
+- Server/Backend Programming &nbsp;<sub>- Java, Spring Framework</sub>
+- Cloud Computing &nbsp;<sub>- AWS</sub>
 - Agile Methodology
 - Clean Code
 
