@@ -8,7 +8,7 @@
 - Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 –)</sub>
 
 ### 🎈 Interest
-- Server/Backend Programming &nbsp;<sub>- Java, Spring Framework</sub>
+- Server/Backend Programming &nbsp;<sub>- Java, Spring Boot, JPA</sub>
 - Cloud Computing &nbsp;<sub>- AWS</sub>
 - Agile Methodology
 - Clean Code
