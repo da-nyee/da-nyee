@@ -6,11 +6,11 @@
 
 ### 📚 Education
 - Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
-- Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 –)</sub>
+- Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 🎈 Interest
-- Server/Backend Programming &nbsp;<sub>- Java, Spring Boot, JPA</sub>
-- Cloud Computing &nbsp;<sub>- AWS</sub>
+- Backend/Server-Side Development &nbsp;<sub>- Java, Spring Boot, JPA</sub>
+- Cloud Computing Services &nbsp;<sub>- AWS</sub>
 - Agile Methodology
 - Clean Code
 
