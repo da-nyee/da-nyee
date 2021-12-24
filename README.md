@@ -13,6 +13,7 @@
 - Cloud Computing Services &nbsp;<sub>- AWS</sub>
 - Agile Methodology
 - Clean Code
+- Git
 
 
 <!--
