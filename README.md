@@ -4,6 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:leede0418@gmail.com)](mailto:leede0418@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/PDF-Portfolio-%23FF3399?stype=flat-round&link=https://github.com/da-nyee/da-nyee/blob/master/portfolio.pdf)](https://github.com/da-nyee/da-nyee/blob/master/portfolio.pdf)
 
+### 💎 Experience
+- Backend Developer at Daangn &nbsp;<sub>(Intern, Jan 2022 –)</sub>
+
 ### 📚 Education
 - Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
 - Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
