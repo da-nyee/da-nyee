@@ -5,7 +5,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/PDF-Portfolio-%23FF3399?stype=flat-round&link=https://github.com/da-nyee/da-nyee/blob/master/portfolio.pdf)](https://github.com/da-nyee/da-nyee/blob/master/portfolio.pdf)
 
 ### 💎 Experience
-- Backend Developer at Daangn &nbsp;<sub>(Intern, Jan 2022 –)</sub>
+- Backend Developer at Daangn &nbsp;<sub>(Internship, Jan 2022 –)</sub>
 
 ### 📚 Education
 - Woowahan Tech Course 3rd &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
