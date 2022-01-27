@@ -10,7 +10,7 @@
 
 ### 📚 Education
 - Web Backend 3rd at Woowahan Tech Course &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
-- Undergraduate Student in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
+- Bachelor's Degree in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 🎈 Interest
 - Backend/Server-Side Development &nbsp;<sub>- Java, Spring Boot, JPA</sub>
