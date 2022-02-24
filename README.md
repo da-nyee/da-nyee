@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:leede0418@gmail.com)](mailto:leede0418@gmail.com)
 
 ### 💎 Experience
-- Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 –)</sub>
+- Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 – Feb 2022)</sub>
 
 ### 📚 Education
 - Web Backend 3rd at Woowahan Tech Course &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
