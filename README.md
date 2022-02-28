@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:leedaeun.dev@gmail.com)](mailto:leedaeun.dev@gmail.com)
 
 ### 💎 Experience
+- Backend Developer at Kakao Pay &nbsp;<sub>(Full-time, Feb 2022 –)</sub>
 - Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 – Feb 2022)</sub>
 
 ### 📚 Education
