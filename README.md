@@ -3,6 +3,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-round&logo=github&link=http://da-nyee.github.io/)](https://da-nyee.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeun-lee-62143b190/)](https://www.linkedin.com/in/daeun-lee-62143b190/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:leedaeun.dev@gmail.com)](mailto:leedaeun.dev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/PDF-Portfolio-%23FF3399?stype=flat-round&link=https://github.com/da-nyee/da-nyee/blob/master/portfolio.pdf)](https://github.com/da-nyee/da-nyee/blob/master/portfolio.pdf)
 
 ### 💎 Experience
 - Backend Developer at Kakao Pay &nbsp;<sub>(Full-time, Feb 2022 –)</sub>
