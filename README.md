@@ -10,7 +10,7 @@
 - Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 – Feb 2022)</sub>
 - Software Developer at Ericsson-LG &nbsp;<sub>(Internship, Jul 2019 – Aug 2019)</sub>
 
-### 📚 Education
+### 💻 Education
 - Web Backend 3rd at Woowahan Tech Course &nbsp;<sub>(Feb 2021 – Nov 2021)</sub>
 - Bachelor's Degree in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
