@@ -11,9 +11,9 @@
 - Bachelor's Degree in Computer Science at Gachon University &nbsp;<sub>(Mar 2016 – Feb 2022)</sub>
 
 ### 🎈 Interest
-- Backend/Server-Side Development &nbsp;<sub>- Java, Kotlin, Spring Boot, JPA</sub>
+- Backend/Server-side Development &nbsp;<sub>- Java, Kotlin, Spring Boot, JPA</sub>
+- Software Architecture and Design
 - Cloud Computing Services &nbsp;<sub>- AWS</sub>
-- Agile Methodology
 - Clean Code
 - Git
 
