@@ -13,8 +13,8 @@
 ### 🎈 Interest
 - Backend/Server-side Development &nbsp;<sub>- Java, Kotlin, Spring Boot, JPA</sub>
 - Software Architecture and Design
-- Cloud Computing Services &nbsp;<sub>- AWS</sub>
 - Clean Code
+- Cloud Computing Services &nbsp;<sub>- AWS</sub>
 - Git
 
 <!--
