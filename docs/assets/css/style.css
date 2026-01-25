@@ -129,6 +129,111 @@ body {
   margin-bottom: 6px;
 }
 
+/* Project Toggle */
+.experience__projects {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.project {
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  background-color: var(--color-bg);
+  transition: all 0.2s ease;
+}
+
+.project:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 2px 8px rgba(49, 130, 206, 0.08);
+}
+
+.project[open] {
+  background-color: var(--color-bg-subtle);
+}
+
+.project__title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  gap: 12px;
+}
+
+.project__title::-webkit-details-marker {
+  display: none;
+}
+
+.project__title::before {
+  content: '';
+  width: 6px;
+  height: 6px;
+  border-right: 2px solid var(--color-light);
+  border-bottom: 2px solid var(--color-light);
+  transform: rotate(-45deg);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.project[open] .project__title::before {
+  transform: rotate(45deg);
+}
+
+.project__name {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-primary);
+  flex: 1;
+}
+
+.project__tech {
+  font-size: 0.75rem;
+  color: var(--color-light);
+  background-color: var(--color-bg-subtle);
+  padding: 3px 10px;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+.project[open] .project__tech {
+  background-color: var(--color-bg);
+}
+
+.project__content {
+  padding: 0 16px 14px 34px;
+  color: var(--color-secondary);
+  animation: slideDown 0.2s ease;
+}
+
+.project__content ul {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.project__content li {
+  margin-bottom: 4px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.project__content li:last-child {
+  margin-bottom: 0;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* Skills */
 .skills {
   display: flex;
@@ -174,6 +279,20 @@ body {
   body {
     font-size: 12px;
   }
+
+  /* 인쇄 시 모든 프로젝트 펼침 */
+  .project {
+    border: none;
+    background: none !important;
+  }
+
+  .project__content {
+    display: block !important;
+  }
+
+  .project__title::before {
+    display: none;
+  }
 }
 
 /* Responsive */
@@ -194,5 +313,19 @@ body {
   .experience__header {
     flex-direction: column;
     gap: 2px;
+  }
+
+  .project__title {
+    flex-wrap: wrap;
+    padding: 10px 14px;
+  }
+
+  .project__tech {
+    margin-left: 18px;
+    margin-top: 4px;
+  }
+
+  .project__content {
+    padding-left: 14px;
   }
 }
