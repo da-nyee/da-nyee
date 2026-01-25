@@ -1,0 +1,15 @@
+title: Resume
+description: Backend Engineer Resume
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
