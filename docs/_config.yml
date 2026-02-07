@@ -1,7 +1,7 @@
 title: Resume
-description: Backend Engineer Resume
-baseurl: "/da-nyee"
-url: "https://da-nyee.github.io"
+description: Software Engineer Resume
+baseurl: ""
+url: "https://lee-daeun.dev"
 
 # Build settings
 markdown: kramdown
