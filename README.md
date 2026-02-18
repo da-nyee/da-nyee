@@ -1,9 +1,12 @@
 ## Lee Daeun &nbsp;@da-nyee
 
-### 💎 Experience
+### 💎 &nbsp;Experience
 - Software Engineer at Kakao Pay &nbsp;<sub>(Full-time, Feb 2022 –)</sub>
-- Server Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 – Feb 2022)</sub>
+- Software Engineer at Karrot &nbsp;<sub>(Internship, Jan 2022 – Feb 2022)</sub>
 - Software Developer at Ericsson-LG &nbsp;<sub>(Internship, Jul 2019 – Aug 2019)</sub>
+
+### 🧠 &nbsp;Skills
+`Kotlin` &nbsp;`Java` &nbsp;`Spring Boot` &nbsp;`JPA` &nbsp;`MySQL` &nbsp;`MongoDB` &nbsp;`Redis` &nbsp;`Kafka`
 
 <!--
 **da-nyee/da-nyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
