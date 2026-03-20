@@ -317,6 +317,20 @@ body {
   margin-bottom: 0;
 }
 
+/* Highlight */
+mark {
+  background: linear-gradient(180deg, transparent 60%, rgba(49, 130, 206, 0.2) 60%);
+  color: inherit;
+  font-weight: 500;
+}
+
+/* Arrow */
+.arrow::before {
+  content: '→';
+  color: var(--color-primary);
+  font-size: 0.85em;
+}
+
 @keyframes slideDown {
   from {
     opacity: 0;

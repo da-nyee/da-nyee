@@ -73,11 +73,28 @@ title: 이다은 (Lee Daeun)
             </summary>
             <div class="project__content">
               <span class="project__year">2025 - 현재</span>
+              <p class="project__context">
+                <span class="context-label">배경</span>
+                <span>단발성 서비스 개발의 한계를 극복하여 플랫폼 확장성을 확보하고,<br/>대규모 트래픽 환경에서도 안정적으로 유저 참여와 리텐션을 견인하기 위해 구축된 플랫폼</span>
+              </p>
               <ul>
-                <li>가능한 한 최소한의 비용으로 모듈을 확장할 수 있게 시스템 설계 및 구현</li>
-                <li>게이미피케이션 서비스 특성상 어뷰저가 발생할 수 밖에 없어,<br/>이를 사전에 방지하고자 꼼꼼하게 방어 로직 추가</li>
-                <li>체계적인 성능 테스트로 목표치를 상회하는 결과를 얻으며 견고한 시스템 구축</li>
-                <li>(정량적인, 수치화된 지표 추가하기)</li>
+                <li>공통/가변 영역을 완벽히 분리한 모듈형 아키텍처 설계를 통해,<br/>신규 모듈 확장 시 데이터 및 API 설계 시간을 <mark>수십 분 단위로 단축</mark>하며<br/>최소한의 개발 비용으로 서비스 확장이 가능한 시스템 기반 마련</li>
+                <li>대규모 쓰기 트래픽 최적화를 위한 MongoDB 도입 / Redis 캐싱 / 샤딩(Sharding) 적용으로,<br/>오픈 직후 예상 목표치(500 TPS)를 상회하는 <mark>최고 860 TPS</mark>의 부하를 병목/장애 없이 안정적으로 처리</li>
+                <li>k6를 활용한 유저 플로우 기반 부하 테스트를 수행하고<br/>커넥션 풀(Connection pool) 및 쿼리 튜닝으로 DB 지연 구간을 선제적으로 해결하여,<br/><mark>p90 응답속도 188ms</mark> / <mark>p99 응답속도 20ms</mark> 달성 및 <mark>무결점 런칭</mark>(오픈 직후 핫픽스 0건) 기록</li>
+                <li>어뷰징 방지를 위한 견고한 방어 로직 및 예외 처리를 설계하여 서비스 무결성을 확보하고,<br/>이를 바탕으로 페이앱 설치율 <mark>50% 이상 증가</mark> 및 트래픽 <mark>3.5배 성장</mark>(14만 <span class="arrow"></span> 50만 명) 견인</li>
+              </ul>
+            </div>
+          </details>
+          <details class="project">
+            <summary class="project__title">
+              <span class="project__name">프로젝트 모듈 분리</span>
+              <span class="project__tech">Kotlin, Spring Boot, JPA, MySQL</span>
+            </summary>
+            <div class="project__content">
+              <span class="project__year">2025</span>
+              <ul>
+                <li>높은 결합도 및 유지보수 저하 문제점 존재</li>
+                <li>따라서 작은 단위의 모듈로 분리하고, 의존성 정리</li>
               </ul>
             </div>
           </details>
@@ -101,18 +118,6 @@ title: 이다은 (Lee Daeun)
             </summary>
             <div class="project__content">
               <span class="project__year">2023 - 2025</span>
-              <ul>
-                <li>레거시 시스템 리팩토링으로 API 응답 속도 40% 개선</li>
-                <li>N+1 쿼리 문제 해결 및 인덱스 최적화</li>
-              </ul>
-            </div>
-          </details>
-          <details class="project">
-            <summary class="project__title">
-              <span class="project__name">TBU</span>
-              <span class="project__tech">TBU</span>
-            </summary>
-            <div class="project__content">
               <ul>
                 <li>레거시 시스템 리팩토링으로 API 응답 속도 40% 개선</li>
                 <li>N+1 쿼리 문제 해결 및 인덱스 최적화</li>
@@ -165,7 +170,7 @@ title: 이다은 (Lee Daeun)
     <div class="experience__projects">
       <details class="project">
         <summary class="project__title">
-          <span class="project__name">비즈프로필 통계 기능 초안(?) 개발</span>
+          <span class="project__name">비즈프로필 통계 기능 초안 개발</span>
           <span class="project__tech">Kotlin, Spring Boot</span>
         </summary>
         <div class="project__content">
@@ -216,7 +221,8 @@ title: 이다은 (Lee Daeun)
         </summary>
         <div class="project__content">
           <ul>
-            <li>성과 또는 활동 내용</li>
+            <li>TBU</li>
+            <li>관련 글) <a href="https://tech.kakaopay.com/post/kakaopay-hackathon-paygenie/" target="_blank">"페이지니가 찾아올게요" 금융 AI 컨시어지, 페이지니</a></li>
           </ul>
         </div>
       </details>
