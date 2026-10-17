@@ -474,6 +474,12 @@ mark {
     padding: 10px 14px;
   }
 
+  .project__tech {
+    white-space: normal;
+    max-width: 100%;
+    border-radius: 10px;
+  }
+
   .project__content {
     padding-left: 14px;
   }
