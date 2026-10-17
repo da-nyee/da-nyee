@@ -254,10 +254,10 @@ body {
 }
 
 .project__tech {
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   color: var(--color-light);
   background-color: var(--color-bg-subtle);
-  padding: 3px 10px;
+  padding: 2px 8px;
   border-radius: 12px;
   white-space: nowrap;
 }
@@ -300,6 +300,59 @@ body {
   padding: 2px 8px;
   border-radius: 10px;
   margin-top: 2px;
+}
+
+/* 과제 (STAR) */
+.project__tasks {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.task {
+  border-left: 2px solid rgba(49, 130, 206, 0.25);
+  padding: 2px 0 2px 12px;
+}
+
+.task__head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.task__label {
+  flex-shrink: 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #fff;
+  background-color: var(--color-accent);
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+
+.task__title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.task__sub {
+  margin: 8px 0 2px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.task__sub:first-of-type {
+  margin-top: 0;
+}
+
+.task ul {
+  padding-left: 16px;
 }
 
 .project__content ul {
